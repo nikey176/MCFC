@@ -15,8 +15,8 @@ colors()
 
 > Output: <br><br>
 ![image](https://user-images.githubusercontent.com/71274141/180663521-3a4d6af1-b613-4a28-971d-c5944f7d30e5.png)
+<br>
 
 
-
-! Made by WoidZero.
-! https://woidzero..xyz
+- Made by WoidZero.
+- https://woidzero..xyz
