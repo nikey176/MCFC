@@ -3,8 +3,14 @@
 
 > Using:
 ```py
-from mcfc import f_print
+from mcfc import f_print, colors
 
+# example
 f_print("&cSomething Red, &eSomething Yellow, &cR&eA&aI&bN&9B&dO&5W")
+
+# list of available colors
+colors()
 ```
-> Output: ![image](https://user-images.githubusercontent.com/71274141/180663477-202a4429-a9ea-47ce-8f26-3ca8524e1a11.png)
+
+> Output: 
+![image](https://user-images.githubusercontent.com/71274141/180663521-3a4d6af1-b613-4a28-971d-c5944f7d30e5.png)
