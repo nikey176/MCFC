@@ -18,5 +18,5 @@ colors()
 
 
 
-# Made by WoidZero.
-# https://woidzero..xyz
+! Made by WoidZero.
+! https://woidzero..xyz
