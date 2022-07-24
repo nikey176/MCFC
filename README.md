@@ -19,4 +19,4 @@ colors()
 
 
 - Made by WoidZero.
-- https://woidzero..xyz
+- https://woidzero.xyz
