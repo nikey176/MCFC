@@ -1,17 +1,7 @@
-#
-#       MCFC - Minecraft Formatting Codes
-#
-#   Author:    WoidZero
-#   License:   MIT
-#   Version:   1.0.1
-#   Date:      2022-24-08
-#
-
-
 import os
 import sys
 
-# Check is console platform equal win32 and execute "color" command.
+
 if sys.platform.lower() == "win32": 
     os.system('color')
 
