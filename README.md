@@ -1,12 +1,14 @@
 <h1 align=center>MCFC</h1>
 <p align=center>Minecraft Formatting Codes for Python 3.x </p><br>
 
+> Install
+- `pip install mcfc`
+- 
+<br>
+
 > Functions
 - `colors()`
 - `f_print(text: str)`
-
-> Install
-- `pip install mcfc`
 
 <br>
 
