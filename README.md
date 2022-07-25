@@ -3,7 +3,7 @@
 
 > Install
 - `pip install mcfc`
-- 
+
 <br>
 
 > Functions
