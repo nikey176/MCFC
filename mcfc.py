@@ -85,5 +85,6 @@ def colors():
     f_print("&00 &11 &22 &33 &44 &55 &66 &77 &88 &99\n &aa &bb &cc &dd &ee &ff &rr &nn")
 
 f_print("&cSomething Red, &eSomething Yellow, &cR&eA&aI&bN&9B&dO&5W")
-colors()
+
+
 # ================================================================ #
