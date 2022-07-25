@@ -7,8 +7,8 @@
 <br>
 
 > Functions
-- `colors()`
-- `f_print(text: str)`
+- `colors()`: Show information and available colors.
+- `f_print(text: str)` - Print colored text.
 
 <br>
 
@@ -16,10 +16,8 @@
 > ```py
 > from mcfc import f_print, colors
 > 
-> # example
 > f_print("&cSomething Red, &eSomething Yellow, &cR&eA&> aI&bN&9B&dO&5W")
 >
-> # list of available colors
 > colors()
 > ```
 <br>
