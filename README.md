@@ -5,6 +5,9 @@
 - `colors()`
 - `f_print(text: str)`
 
+> Install
+- `pip install mcfc`
+
 <br>
 
 > Example
