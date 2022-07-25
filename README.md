@@ -8,7 +8,7 @@
 
 > Functions
 - `colors()`: Show information and available colors.
-- `f_print(text: str)` - Print colored text.
+- `f_print(text: str)`: Print colored text.
 
 <br>
 
