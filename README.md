@@ -16,7 +16,7 @@
 > ```py
 > from mcfc import f_print, colors
 > 
-> f_print("&cSomething Red, &eSomething Yellow, &cR&eA&> aI&bN&9B&dO&5W")
+> f_print("&cSomething Red, &eSomething Yellow, &cR&e&aI&bN&9B&dO&5W")
 >
 > colors()
 > ```
