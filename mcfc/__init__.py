@@ -5,5 +5,5 @@
 """
 
 
-from .static.colors import *
-from .static.main import *
+from .colors import *
+from .main import *
