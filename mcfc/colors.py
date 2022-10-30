@@ -1,3 +1,8 @@
+# colors.py
+# Text formatting using Minecraft color codes.
+# https://github.com/woidzero/MCFC.git
+
+
 BLACK = '\033[30m'
 DARK_BLUE = '\033[34m'
 DARK_GREEN = '\033[32m'

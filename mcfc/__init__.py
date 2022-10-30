@@ -1,7 +1,10 @@
 """
 ## MCFC
-:copyright: 2022 © woidzero
-:license: MIT License, see LICENSE for more.
+Text formatting using Minecraft color codes.
+
+---
+:copyright: Copyright 2022 (c) woidzero. All rights reserved.
+:license: Licensed under the MIT license.
 """
 
 
