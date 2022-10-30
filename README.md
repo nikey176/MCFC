@@ -1,39 +1,24 @@
 # MCFC
-Python module for color print using Minecraft color codes.
+Text formatting using Minecraft color codes.
 
-
-## Compatibility
-MCFC works with Linux, Windows. On Windows true color needed Windows Terminal, classic terminal is limited to 16 colors. 
-Requirements Python 3.8+.
-
-
-## Functions
-- `f_print(*__prompt: str)`
-
-
-## Installing
-#### Linux:
+## Installation
+> Linux
 > ```bash
->    python3 -m pip install mcfc
+>  python3.10 -m pip install mcfc
 > ```
-#### Windows:
+> Windows
 > ```bash
->    pip install mcfc
+>  pip install mcfc
 > ```
 
-
-## Using
-### Input
-> ```py
+## Usage
+> ```python
 > import mcfc
 > 
-> 
-> def hello(opt):
->     mcfc.f_print('&aHello', opt, '!')
-> 
->
-> hello('World')
+> mcfc.f_print('&aHello World', '!')
 > ```
+> Output
+> ![image](https://cdn.discordapp.com/attachments/1004866892466495538/1027243927620833330/unknown.png)
 
-### Output
-![image](https://cdn.discordapp.com/attachments/1004866892466495538/1027243927620833330/unknown.png)
+## Support
+For support, email <a href="mailto://woidzeroo@gmail.com">woidzeroo@gmail.com</a> or join Discord - <a href="https://discord.gg/RSsCkch3CM">@woidzero_notes</a>
