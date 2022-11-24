@@ -7,6 +7,4 @@ Text formatting using Minecraft color codes.
 :license: Licensed under the MIT license.
 """
 
-
-from .colors import *
 from .main import *
