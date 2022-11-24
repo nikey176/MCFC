@@ -87,5 +87,3 @@ def info():
     &nn (underline)&r             &oo (italic)
     &mm (strikethrough)&r
     """)
-
-info()
