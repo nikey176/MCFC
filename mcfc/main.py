@@ -38,19 +38,19 @@ STRIKETHROUGH = '\033[9m'
 ITALIC = '\033[3m'
 
 colorCodes = {
-    "&0": BLACK,          "&f": WHITE,
-    "&8": DARK_GRAY,      "&7": GRAY,
-    "&1": DARK_BLUE,      "&9": BLUE,
-    "&2": DARK_GREEN,     "&a": GREEN,
-    "&3": DARK_AQUA,      "&b": AQUA,
-    "&4": DARK_RED,       "&c": RED,
-    "&5": DARK_PURPLE,    "&d": PURPLE,
-    "&6": DARK_YELLOW,    "&e": YELLOW,
-    "&r": RESET,
-    "&l": BOLD,
-    "&n": UNDERLINE,
-    "&m": STRIKETHROUGH,
-    "&o": ITALIC
+    "§0": BLACK,          "§f": WHITE,
+    "§8": DARK_GRAY,      "§7": GRAY,
+    "§1": DARK_BLUE,      "§9": BLUE,
+    "§2": DARK_GREEN,     "§a": GREEN,
+    "§3": DARK_AQUA,      "§b": AQUA,
+    "§4": DARK_RED,       "§c": RED,
+    "§5": DARK_PURPLE,    "§d": PURPLE,
+    "§6": DARK_YELLOW,    "§e": YELLOW,
+    "§r": RESET,
+    "§l": BOLD,
+    "§n": UNDERLINE,
+    "§m": STRIKETHROUGH,
+    "§o": ITALIC
 }
 
 
@@ -76,14 +76,14 @@ def info():
     Prints all available formatting codes.
     """
     echo("""
-        Formatting code must start with &    
+        Formatting code must start with §    
             
-    &00            &88            &77            &ff
-    &11            &99            &22            &aa
-    &33            &bb            &44            &cc
-    &55            &dd            &66            &ee
+    §00            §88            §77            §ff
+    §11            §99            §22            §aa
+    §33            §bb            §44            §cc
+    §55            §dd            §66            §ee
 
-    &rr (reset)&r                 &ll (bold)      
-    &nn (underline)&r             &oo (italic)
-    &mm (strikethrough)&r
+    §rr (reset)§r                 §ll (bold)      
+    §nn (underline)§r             §oo (italic)
+    §mm (strikethrough)§r
     """)
